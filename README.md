@@ -79,3 +79,4 @@ Users can filter data by outlet location type, outlet size, and item type for cu
 This dashboard is ideal for business analysts, operations managers, and decision-makers seeking actionable insights into Blinkit’s sales and outlet performance.
 
 ---
+![image](https://github.com/user-attachments/assets/9634f50a-c40b-4d09-ac84-84031c394408)
